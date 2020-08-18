@@ -8,7 +8,7 @@ I am  a PhD student in the Department of Anthropology (Biological track) at Penn
 
 ### Keywords
 <b>R</b> - <i>Python</i> - <u>Netlogo</u>  
-<u>Tidyerse</u> - <b>Pandas</b> - <i>NumPy</i>
+<u>Tidyerse</u> - <b>Pandas</b> - <i>NumPy</i>  
 <i>Process automation</i> - <u>Web scraping</u> - <b>Multilevel modeling</b>  
   
 ### Contact me
