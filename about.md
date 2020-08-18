@@ -11,6 +11,6 @@ I am  a PhD student in the Department of Anthropology (Biological track) at Penn
 <p style="margin-left:10%;"><u>Tidyerse</u> - <b>Pandas</b> - <i>NumPy</i>  
 <p style="margin-left:20%;"><i>Process automation</i> - <u>Web scraping</u> - <b>Multilevel modeling</b>  
   
-  ### Contact me
+### Contact me
 
 [kevin.rosenfield@gmail.com](mailto:kevin.rosenfield@gmail.com)
