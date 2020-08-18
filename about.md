@@ -9,8 +9,8 @@ I am  a PhD student in the Department of Anthropology (Biological track) at Penn
 ### Keywords
 <b>R</b> - <i>Python</i> - <u>Netlogo</u>  
 <p style="margin-left:10%;"><u>Tidyerse</u> - <b>Pandas</b> - <i>NumPy</i>  
-<p style="margin-left:20%;"><i>Process automation</i> - <u>Web scraping</u> - <b>Multilevel modeling</b>
-
-### Contact me
+<p style="margin-left:20%;"><i>Process automation</i> - <u>Web scraping</u> - <b>Multilevel modeling</b>  
+  
+  ### Contact me
 
 [kevin.rosenfield@gmail.com](mailto:kevin.rosenfield@gmail.com)
