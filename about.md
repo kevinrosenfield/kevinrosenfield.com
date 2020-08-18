@@ -3,9 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<style type="text/css">
- .tab { margin-left: 40px; }
-</style>
+<style type="text/css">tab { margin-left: 40px; }</style>
 
 I am  a PhD student in the Department of Anthropology (Biological track) at Penn State University. As of August 2020, I am begninning my fifth year in the program, and I hope to finish up within a year or so. Then I plan to pursue a career in data science!
 
