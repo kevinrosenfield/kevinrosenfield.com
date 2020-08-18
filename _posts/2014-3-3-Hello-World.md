@@ -7,6 +7,7 @@ Here's a blog post
 
 
 A goodest boy
-![_config.yml]({{ site.baseurl }}/images/dodger.JPG = 100x20)
+<img src="images/dodger.JPG" alt="drawing" width="200"/></img>
 
+![_config.yml]({{ site.baseurl }}/images/dodger.JPG)
 WOO
