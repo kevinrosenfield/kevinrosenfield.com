@@ -2,7 +2,7 @@
 layout: post
 title: First post!
 ---
-```{r, basicCode}
+```r
 
 x_var <- rnorm(n = 50, mean = 0, sd = 100)
 y_var <- rnorm(n = 50, mean = 10, sd = 2)
