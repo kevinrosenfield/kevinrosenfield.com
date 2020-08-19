@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+<h1>{{ page.title }}</h1>
+
 I am  a PhD student in the Department of Anthropology (Biological track) at Penn State University. As of August 2020, I am beginning my fifth year in the program, and I hope to finish up within a year or so. Then I plan to pursue a career in data science!
 
 ### Keywords
