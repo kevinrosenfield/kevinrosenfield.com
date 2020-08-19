@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CV"
-permalink: /CV/
+permalink: /cv/
 ---
 
 <h1 style="text-align:center;">My CV</h1>
