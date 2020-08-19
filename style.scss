@@ -66,6 +66,7 @@ h4 {
 
 p {
   margin: 15px 0;
+  padding-bottom: 10px;
 }
 
 a {
@@ -247,6 +248,7 @@ nav {
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
+  text-align: center;
 }
 
 .posts > .post:last-child {
