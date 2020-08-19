@@ -12,6 +12,11 @@ plot(x = x_var, y = y_var)
 print(seq(1, 100, length.out = 10)
 ```
 
+```python
+s = "Python syntax highlighting"
+print s
+```
+
 Here's a blog post
 
 
