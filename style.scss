@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+	background: darkslategrey;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -200,11 +200,11 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: cyan;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: cochin;
   font-weight: 300;
-  font-size: 28px;
+  font-size: 40px;
   letter-spacing: 1px;
 }
 
