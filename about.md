@@ -8,6 +8,8 @@ permalink: /about/
 
 I am  a PhD student in the Department of Anthropology (Biological track) at Penn State University. As of August 2020, I am beginning my fifth year in the program, and I hope to finish up within a year or so. Then I plan to pursue a career in data science!
 
+<c>This website is a work in progress</c>
+
 ### Keywords
 <b>R</b> - <i>Python</i> - <u>Netlogo</u>  
 <u>Tidyerse</u> - <b>Pandas</b> - <i>NumPy</i>  
