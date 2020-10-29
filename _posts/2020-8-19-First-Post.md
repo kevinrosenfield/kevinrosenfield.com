@@ -10,5 +10,5 @@ Agent-based models are a specific type of mathematical model that seek to unders
 For example, one of the most intutive agent-based models is known as the <a href="https://ccl.northwestern.edu/netlogo/models/WolfSheepPredation">wolf-sheep predation model</a>. The main question it seeks to address is "What properties allow a predator-prey ecosystem to reach and maintain stability (here, stability simply means that neither species goes extinct)?"
 
 <video width="400" height="400" controls>
-  <source src="/images/IMG_7462.mov" type="video/mov">
+  <source src="/images/IMG_7462.mov" type="video/mp4">
 </video>
