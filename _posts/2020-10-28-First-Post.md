@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: Coding Agent Based Models in R and Python 
 ---
 
 I have been spending a huge amount of time coding agent-based models over the last few months. Aside from being incredibly fun to work on, I'm hoping that these models will allow me to test several the hypotheses related to behavior, mating, and evolution in humans and non-primates.
