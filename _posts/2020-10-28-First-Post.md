@@ -5,7 +5,9 @@ title: Coding Agent Based Models in R and Python
 <div style="text-align: left">
 I have been spending a huge amount of time coding agent-based models over the last few months. Aside from being incredibly fun to work on, I'm hoping that these models will allow me to test several the hypotheses related to behavior, mating, and evolution in humans and non-primates.
 </div>
-<br>
+
+<br style="margin:10px">
+
 <div style="text-align: left">
 Agent-based models are a specific type of mathematical model that seek to understand the emergence of phenomena at one level of organization (e.g. the human brain, a population of chimpanzees, or a galaxy) by modeling the behavior of 'agents' at lower levels (e.g. individual neurons, chimpanzees, or stars). Key to this kind of procedure is understanding the ways in which agents interact with, and even modify, characteristics of other individuals and the environment itself.
 </div>
