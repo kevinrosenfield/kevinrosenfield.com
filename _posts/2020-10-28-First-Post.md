@@ -3,7 +3,7 @@ layout: post
 title: Coding Agent Based Models in R and Python 
 ---
 <div style="text-align: left">
-I have been spending a huge amount of time coding agent-based models over the last few months. Aside from being incredibly fun to work on, I'm hoping that these models will allow me to test several the hypotheses related to behavior, mating, and evolution in humans and non-primates.
+I have been spending a huge amount of time coding agent-based models over the last few months. Aside from being incredibly fun to work on, I'm hoping that these models will allow me to test several the hypotheses related to behavior, mating, and evolution in humans and non-human primates.
 </div>
 
 <br>
@@ -15,7 +15,7 @@ Agent-based models are a specific type of mathematical model that seek to unders
 <br>
 
 <div style="text-align: left">
-For example, one of the most intutive agent-based models is known as the <a href="https://ccl.northwestern.edu/netlogo/models/WolfSheepPredation">wolf-sheep predation model</a>. The main question it seeks to address is "What properties allow a predator-prey ecosystem to reach and maintain stability (here, stability simply means that neither species goes extinct)?" The clip below shows how this plays out in an agent-based modeling program called Netlogo. As you'll see, this ecosystem (a simple one, only including sheep and wolves) is not stable; the wolves go extinct as a result of huge swings in sheep and wolf poulation sizes.
+For example, one of the most intuitive agent-based models is known as the <a href="https://ccl.northwestern.edu/netlogo/models/WolfSheepPredation">wolf-sheep predation model</a>. The main question it seeks to address is "What properties allow a predator-prey ecosystem to reach and maintain stability (here, stability simply means that neither species goes extinct)?" The clip below shows how this plays out in an agent-based modeling program called Netlogo (I did not write this particular model). As you'll see, this ecosystem (a simple one, only including sheep and wolves) is not stable; the wolves go extinct as a result of huge swings in sheep and wolf poulation sizes.
 </div>
 
 <br>
@@ -35,7 +35,7 @@ Agent-based models are meant to be simplistic. They do not mirror the complexity
 <br>
 
 <div style="text-align: left">
-When we design experiments to try to tease apart causes and effects, one of our most important tasks is to ensure that unimportant variabes are experimentally controlled (i.e. that they do not vary in ways that might influence the outcome). This is precisely what we are doing by leaving  certain variables out of an agent-based model when we are asking a question that does not involve them. Of course, there is a downside to this, namely that when make things very simply, we sacrifice external validity, or the ability of the model to accurately depict what happens in the real world. But that's okay, because other researchers will conduct studies with high external validity by studying real wolves and sheep.
+When we design experiments to try to tease apart causes and effects, one of our most important tasks is to ensure that variabes not related to our research question are experimentally controlled (i.e. that they do not vary in ways that might influence the outcome). This is precisely what we are doing by leaving  certain variables out of an agent-based model when we are asking a question that does not involve them. Of course, there is a downside to this, namely that when make things very simple, we sacrifice external validity, or the ability of the model to accurately depict what happens in the real world. But that's okay, because other researchers will conduct studies with high external validity by studying real wolves and sheep!
 </div>
 
 <br>
