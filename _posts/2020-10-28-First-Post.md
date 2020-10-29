@@ -46,7 +46,7 @@ All this being said, the video shows that even an agent-based model can be <i>to
 
 <br>
 
-<div style="text-align: left">
+<div style="text-align: center">
 <video width="400" height="400" style="margin:0 auto" controls>
   <source src="/images/IMG_7464.mov" type="video/mp4">
 </video>
