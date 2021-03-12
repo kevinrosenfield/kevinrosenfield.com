@@ -5,7 +5,7 @@ title: Agent-based models
 <div style="text-align: left">
 I have been spending a huge amount of time coding agent-based models over the last few months. Aside from being incredibly fun to work on, I'm hoping that these models will allow me to test several the hypotheses related to behavior, mating, and evolution in humans and non-human primates.
 
-
+<br>
 Agent-based models are a specific type of mathematical model that seek to understand the emergence of phenomena at one level of organization (e.g. the human brain, a population of chimpanzees, or a galaxy) by modeling the behavior of 'agents' at lower levels (e.g. individual neurons, chimpanzees, or stars). Key to this kind of procedure is understanding the ways in which agents interact with, and even modify, characteristics of other agents and the environment itself.
 
 For example, one of the most intuitive agent-based models is known as the <a href="https://ccl.northwestern.edu/netlogo/models/WolfSheepPredation">wolf-sheep predation model</a>. The main question it seeks to address is "What properties allow a predator-prey ecosystem to reach and maintain stability (here, stability simply means that neither species goes extinct)?" The clip below shows how this plays out in an agent-based modeling program called Netlogo (I did not write this particular model). As you'll see, this ecosystem (a simple one, only including sheep and wolves) is not stable; the wolves go extinct as a result of huge swings in sheep and wolf poulation sizes.
