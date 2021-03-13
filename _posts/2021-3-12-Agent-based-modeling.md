@@ -3,7 +3,7 @@ layout: post
 title: Agent-based models
 ---
 <div style="text-align: left">
-I have been spending a huge amount of time coding agent-based models over the last few months. Aside from being incredibly fun to work on, I'm hoping that these models will allow me to test several the hypotheses related to behavior, mating, and evolution in humans and non-human primates.
+I have been spending a lot of time coding agent-based models over the last few months. Aside from being incredibly fun to work on, I'm hoping that these models will allow me to test several hypotheses related to behavior, mating, and evolution in humans and non-human primates.
 </div>
 
 <br>
