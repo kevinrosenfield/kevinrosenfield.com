@@ -1,3 +1,8 @@
+---
+layout: post
+title: Dual Hormone Hypothsis Dashboard
+---
+
 <div class='tableauPlaceholder' id='viz1641778607717' style='position: relative'>
   <object class='tableauViz'  style='display:none;'>
     <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
