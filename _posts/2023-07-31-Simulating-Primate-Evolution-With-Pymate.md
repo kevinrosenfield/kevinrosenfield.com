@@ -7,17 +7,11 @@ During grad school, I learned Python and wrote a custom library, <a href="https:
 
 <br>
 
-<div style="text-align: center">
-<image width="400" height="400" style="margin:0 auto" controls>
-  <source src="/images/rankFitess_0.5a.png" type="png">
-</image>
+<div style="text-align:center;display:flex;flex-direction:column;flex-wrap:wrap">
+  <img src="/images/rankFitess_0.5a.png" alt="Image" width="30%" height=auto>
+  <img src="/images/rankFitess_0.5b.png" alt="Image" width="30%" height=auto>
 </div>
 
-<div style="text-align: center">
-<image width="400" height="400" style="margin:0 auto" controls>
-  <source src="/images/rankFitess_0.5b.png" type="png">
-</image>
-</div>
 <br>
 
 <div style="text-align: left">
