@@ -8,15 +8,15 @@ During grad school, I learned Python and wrote a custom library, <a href="https:
 <br>
 
 <div style="text-align: center">
-<video width="400" height="400" style="margin:0 auto" controls>
+<image width="400" height="400" style="margin:0 auto" controls>
   <source src="/images/rankFitess_0.5a.png" type="png">
-</video>
+</image>
 </div>
 
 <div style="text-align: center">
-<video width="400" height="400" style="margin:0 auto" controls>
+<image width="400" height="400" style="margin:0 auto" controls>
   <source src="/images/rankFitess_0.5b.png" type="png">
-</video>
+</image>
 </div>
 <br>
 
