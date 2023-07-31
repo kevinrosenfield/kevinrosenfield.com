@@ -9,7 +9,7 @@ Real primate societies are extremely diverse in their social structures, mating 
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center">
   <img src="/images/rankFitness_0.5a.png" alt="Image" width="47%" height=auto>
-  <img src="/images/rankFitenss_0.5b.png" alt="Image" width="47%" height=auto>
+  <img src="/images/rankFitnenss_0.5b.png" alt="Image" width="47%" height=auto>
 </div>
 
 <br>
