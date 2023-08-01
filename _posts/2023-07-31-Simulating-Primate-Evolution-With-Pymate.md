@@ -11,20 +11,22 @@ During grad school, I learned Python and wrote a custom library, <a href="https:
 Real primate societies are extremely diverse in their social structures, mating systems, and much more, and pymate mirrors this diversity by including a number of user-defined parameters and stochastic components. For example, <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/ajp.22044?casa_token=h8NieiLkMLgAAAAA:8EZr53r3-3yBYGaDpkX-U1dYXIEFiOZ99sup9a83o9y-Wyjdt3F-mzGEC6MAatj1WxLihXyv1VCG"  target="_blank" rel="noopener noreferrer">the steepness of the male dominance hierarchy</a> is a measure of how decisively a male of a particular social rank can exert dominance over males of lower ranks. Pymate's rankFitnessCorrelation parameter gives the user control over this group-level trait, but no two model runs will produce identical hierarchies, even when rankFitnessCorrelation remains the same (Figure 1).
 </p>
 
-<div style="display:flex;flex-direction:column;flex-wrap:wrap;align-items:center;font-size:">
+<div style="display:flex;flex-direction:column;align-items:center;font-size:calc(5px + 1.1vw)">
 Figure 1. Plots of correlation between rank and fitness (composed of competitive abillity and other traits) during
 2 model runs. All parameters are identical between the two runs. Stochastic processes are responsible for differences.
-  <img src="/images/rankFitness_0.5a.png" alt="Image" width="47%" height=auto>
-  <img src="/images/rankFitness_0.5b.png" alt="Image" width="47%" height=auto>
+  <div style="display:flex;flex-direction:column;flex-wrap:wrap;align-items:center;">
+    <img src="/images/rankFitness_0.5a.png" alt="Image" width="47%" height=auto>
+    <img src="/images/rankFitness_0.5b.png" alt="Image" width="47%" height=auto>
+  </div>
 </div>
 
 <p style="text-align: left">
 text here
 </p>
 
-<div style="display:flex;flex-direction:column;flex-wrap:wrap;align-items:center;font-size:">
+<div style="display:flex;flex-direction:column;align-items:center;font-size:calc(5px + 1.1vw)">
 Figure 2. xxx
-  <img src="/images/pymate_app.png" alt="Image" width="47%" height=auto>
+  <img src="/images/pymate_app.png" alt="Image" width="95%" height=auto>
 </div>
 
 <br>
