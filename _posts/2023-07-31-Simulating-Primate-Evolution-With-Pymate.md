@@ -18,6 +18,15 @@ Figure 1. Plots of correlation between rank and fitness (composed of competitive
   <img src="/images/rankFitness_0.5b.png" alt="Image" width="47%" height=auto>
 </div>
 
+<p style="text-align: left">
+text here
+</p>
+
+<div style="display:flex;flex-direction:column;flex-wrap:wrap;align-items:center;font-size:">
+Figure 2. xxx
+  <img src="/images/pymate_app.png" alt="Image" width="47%" height=auto>
+</div>
+
 <br>
 
 <p style="text-align: left">
