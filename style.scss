@@ -21,6 +21,7 @@ body {
 	background: antiquewhite;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
+  margin-top: 10px;
 }
 
 .container {
@@ -172,7 +173,7 @@ img {
 }
 
 .site-avatar {
-  float: left;
+  float: unset;
   width: auto;
   height: auto;
   margin-top: 5px;
@@ -186,7 +187,7 @@ img {
   img {
     border-radius: 5px;
     text-align: center;
-    width: 150px;	  
+    width: 172px;	  
   }
 }
 
