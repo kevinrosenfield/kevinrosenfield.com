@@ -265,6 +265,14 @@ nav {
   -ms-transform: rotate(90deg);
   -o-transform: rotate(45deg);
   transform: rotate(90deg);
+  width: calc(129%);
+  justify-self: center;
+  position: relative;
+  top: 47%;
+}
+
+.entry {
+  display: grid;
 }
 
 .posts {
