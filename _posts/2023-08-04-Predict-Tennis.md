@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Logistic Regression to Predict Tennis Match Outcomes"
-excerpt: <img rotate = "90%" width = "50%", height = "auto" src="https://www.pinnacle.com/Cms_Data/Contents/Guest/Media/betting-articles/educational/article-how-efficient-is-the-tennis-betting-market-hero.jpg" alt="obtained from https://www.pinnacle.com/">
+excerpt: <img style="-webkit-transform: rotate(90deg);-moz-transform: rotate(90deg);-ms-transform: rotate(90deg);-o-transform: rotate(45deg);
+    transform: rotate(90deg);" width = "50%", height = "auto" src="https://www.pinnacle.com/Cms_Data/Contents/Guest/Media/betting-articles/educational/article-how-efficient-is-the-tennis-betting-market-hero.jpg" alt="obtained from https://www.pinnacle.com/">
 ---
 <div>
 <p style="text-align: left;font-size: calc(14px + 0.5vw);">
