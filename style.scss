@@ -116,6 +116,7 @@ img {
   max-width: 100%;
   min-width: 300px;
   margin:5px;
+  justify-self: center;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -270,11 +271,6 @@ nav {
   position: relative;
   top: 47%;
 }
-
-.img {
-  justify-self: center;
-}
-
 
 .entry {
   display: grid;
