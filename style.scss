@@ -259,6 +259,13 @@ nav {
 // .main
 //
 
+.posts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(262px, 1fr));
+  column-gap: 30px;
+  row-gap: 10px;
+}
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
