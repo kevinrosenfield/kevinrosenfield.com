@@ -259,6 +259,14 @@ nav {
 // .main
 //
 
+.rotated-img {
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(90deg);
+}
+
 .posts {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(262px, 1fr));
