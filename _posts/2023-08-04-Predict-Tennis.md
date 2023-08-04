@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Logistic Regression to Predict Tennis Match Outcomes"
+title: "ML Tennis Prediction"
 excerpt: <img class="rotated-img" width = "50%", height = "auto" src="/images/tennis_analytics.jpeg" alt="obtained from https://www.pinnacle.com/">
 ---
 <div>
