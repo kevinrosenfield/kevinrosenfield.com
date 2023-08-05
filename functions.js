@@ -9,10 +9,12 @@ $(document).ready(function () {
     divs.forEach((div) => {
         div.addEventListener('mouseover', () => {
         // Get all children of the currently hovered div (except those with the 'img' tag)
+        console.log(childrenOfHoveredElement)
         const childrenOfHoveredElement = div.querySelectorAll(':not(img)');
     
         // Apply your desired changes to the children here
         childrenOfHoveredElement.forEach((child) => {
+            console.log(child)
             // For example, set the background color of each child to red
             child.style.backgroundColor = '55px';
         });
