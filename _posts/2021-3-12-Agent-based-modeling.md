@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Agent-based models
-excerpt: <a id="img-div1" class="excerpt-link" href="https://kevinrosenfield.com/Agent-based-modeling/"><img src="/images/flocking.png" width = "50%", height = "auto" alt= "obtained from https://images.theconversation.com/files/450675/original/file-20220308-21-1nhx7v8.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=675.0&fit=crop"><div id="img-box1" style="top:-60px;height:0px;width:100%;background-color:black;justify-self:center;opacity:0.5;position:relative"></div><div id="img-caption1" style="top:-113px;left:3px;height:0px;width:100%;;justify-self:center;position:relative;opacity:1.0;color:white;text-align:left;"></div></a>
+excerpt: <a id="img-div1" class="excerpt-link" href="https://kevinrosenfield.com/Agent-based-modeling/"><img src="/images/flocking.png" width = "50%", height = "auto" alt= "obtained from https://images.theconversation.com/files/450675/original/file-20220308-21-1nhx7v8.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=675.0&fit=crop"><div id="img-box1" style="top:-60px;height55px;width:100%;background-color:black;justify-self:center;opacity:0.5;position:relative"></div><div id="img-caption1" style="top:-113px;left:3px;height:55px;width:100%;;justify-self:center;position:relative;opacity:1.0;color:white;text-align:left;">TEXT HERE</div></a>
 ---
 <div style="text-align: left">
 <p>
