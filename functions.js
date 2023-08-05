@@ -1,18 +1,20 @@
-// Get references to the three div elements
-const divs = document.querySelectorAll('[id^="img-div"]');
+$(document).ready(function () {
+    const divs = document.querySelectorAll('[id^="img-div"]');
 
-// Variable to store the currently hovered div
-let hoveredDiv = null;
+    console.log(divs)
+    // Variable to store the currently hovered div
+    let hoveredDiv = null;
 
-// Loop through the divs and add event listeners
-divs.forEach((div) => {
-  div.addEventListener('mouseover', () => {
-    hoveredDiv = div;
-    console.log('Hovering over ' + div.id);
+    // Loop through the divs and add event listeners
+    divs.forEach((div) => {
+      div.addEventListener('mouseover', () => {
+        hoveredDiv = div;
+        console.log('Hovering over ' + div.id);
+      });
+
+      div.addEventListener('mouseout', () => {
+        hoveredDiv = null;
+        console.log('Mouse left ' + div.id);
+      });
+    });
   });
-
-  div.addEventListener('mouseout', () => {
-    hoveredDiv = null;
-    console.log('Mouse left ' + div.id);
-  });
-});
