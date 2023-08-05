@@ -53,7 +53,7 @@ When sheep need to eat grass to stay alive, it is much rarer for either sheep or
 </p>
 
 <p>
-In most models, as in the wolf-sheep model, agents also have unique x- and y-coordinates, making them <i>spatially explicit</i>. This makes the models a much more realistic in some ways. As in the real world, sheep can only eat from food patches they are physically close to.
+In most models, as in the wolf-sheep model, agents also have unique x- and y-coordinates, making them <i>spatially explicit</i>. This makes the models much more realistic in some ways. As in the real world, sheep can only eat from food patches they are physically close to.
 </p>
 
 <p>
