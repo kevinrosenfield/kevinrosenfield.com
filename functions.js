@@ -15,7 +15,7 @@ $(document).ready(function () {
       div.addEventListener('mouseout', () => {
         hoveredDiv = null;
         console.log('Mouse left ' + div.id);
-        div.id.style.height = "55px";
+        div.style.height = "55px";
       });
     });
   });
