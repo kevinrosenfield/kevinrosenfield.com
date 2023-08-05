@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ML Tennis Prediction"
-excerpt: <a href="https://kevinrosenfield.com/Predict-Tennis/"><img class="rotated-img" width = "50%", height = "auto" src="/images/tennis_analytics.jpeg" alt="obtained from https://www.pinnacle.com/"></a>
+excerpt: <a href="https://kevinrosenfield.com/Predict-Tennis/"><img width = "50%", height = "auto" src="/images/tennis_analytics.jpeg" alt="obtained from https://www.pinnacle.com/"></a>
 ---
 <div>
 <p style="text-align: left;font-size: calc(14px + 0.5vw);">
