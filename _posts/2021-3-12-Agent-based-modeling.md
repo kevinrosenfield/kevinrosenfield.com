@@ -31,7 +31,7 @@ Agent-based models are meant to be simplistic. They do not mirror the complexity
 </p>
 
 <p>
-When we design experiments to try to tease apart causes and effects, one of our most important tasks is to ensure that variabes not related to our research question are experimentally controlled (i.e. that they do not vary in ways that might influence the outcome). This is precisely what we are doing by leaving certain variables out of an agent-based model when we are asking a question that does not involve them. Of course, there is a downside to this, namely that when make things very simple, we sacrifice external validity, or the ability of the model to accurately depict what happens in the real world. But that's okay, because other researchers will conduct studies with high external validity by studying real wolves and sheep!
+When we design experiments to try to tease apart causes and effects, one of our most important tasks is to ensure that variabes not related to our research question are experimentally controlled (i.e. that they do not vary in ways that might influence the outcome). This is precisely what we are doing by leaving certain variables out of an agent-based model when we are asking a question that does not involve them. Of course, there is a downside to this, namely that when we make things very simple, we sacrifice external validity, or the ability of the model to accurately depict what happens in the real world. But that's okay, because other researchers will conduct studies with high external validity by studying real wolves and sheep!
 </p>
 
 <p>
