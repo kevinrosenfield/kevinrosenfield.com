@@ -19,6 +19,7 @@ I am  a quantitative social scientist currently exploring options for my next ro
 <i>Process automation</i> - <u>Web scraping</u> - <b>Multilevel modeling</b>  
 </p>
 
+<p class="about">
 ### Contact me
-
 [kevin.rosenfield@gmail.com](mailto:kevin.rosenfield@gmail.com)
+</p>
