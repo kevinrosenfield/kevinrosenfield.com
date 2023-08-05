@@ -25,5 +25,5 @@ $(document).ready(function () {
             child.style.height = 0; // Remove the background color
         });
     });
-});
+}); 
 });
