@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ML Tennis Prediction"
-excerpt: <a id="img-div3" class="excerpt-link" href="https://kevinrosenfield.com/Predict-Tennis/"><img width = "50%", height = "auto" src="/images/tennis_analytics.jpeg" alt="obtained from https://www.pinnacle.com/"><div id="img-box3" style="top:-60px;height:0px;width:100%;background-color:black;justify-self:center;opacity:0.5;position:relative"></div><div id="img-caption3" style="top:-113px;left:3px;height:0px;width:100%;;justify-self:center;position:relative;opacity:1.0;color:white;text-align:left;">TEXT HERE </div></a>
+excerpt: <a id="img-div3" class="excerpt-link" href="https://kevinrosenfield.com/Predict-Tennis/"><img width = "50%", height = "auto" src="/images/tennis_analytics.jpeg" alt="obtained from https://www.pinnacle.com/"><div id="img-box3" style="top:-60px;height:0px;width:100%;background-color:black;justify-self:center;opacity:0.5;position:relative"></div><div id="img-caption3" style="top:-113px;left:3px;height:0px;width:100%;;justify-self:center;position:relative;opacity:1.0;color:white;text-align:left;"></div></a>
 ---
 <div>
 <p>

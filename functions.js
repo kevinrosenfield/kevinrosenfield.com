@@ -26,7 +26,7 @@ $(document).ready(function () {
         const childrenOfHoveredElement = div.querySelectorAll(':not(img)');
         childrenOfHoveredElement.forEach((child) => {
             child.style.height = 0; // Remove the background color
-            child.innerHTML = 'TEXT HERE';
+            child.innerHTML = '';
         });
     });
 }); 
