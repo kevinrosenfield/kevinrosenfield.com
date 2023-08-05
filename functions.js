@@ -7,22 +7,22 @@ $(document).ready(function () {
 
     // Loop through the divs and add event listeners
     divs.forEach((div) => {
-        div.addEventListener('mouseover', (event) => {
-        const hoveredElement = event.target; // The element you hovered over
-        const childrenOfHoveredElement = hoveredElement.querySelectorAll(':not(img)'); // Select all children except those with the 'img' tag
-      });
-
-      div.addEventListener('mouseover', (event) => {
-        const hoveredElement = event.target; // The element you hovered over
-        const childrenOfHoveredElement = hoveredElement.querySelectorAll(':not(img)'); // Select all children except those with the 'img' tag
+        div.addEventListener('mouseover', () => {
+        // Get all children of the currently hovered div (except those with the 'img' tag)
+        const childrenOfHoveredElement = div.querySelectorAll(':not(img)');
     
-        // Add mouseout event listener to each child element
+        // Apply your desired changes to the children here
         childrenOfHoveredElement.forEach((child) => {
-            child.addEventListener('mouseout', () => {
-                hoveredDiv = null;
-                console.log('Mouse left ' + child.id);
-                child.style.height = "55px";
-            });
+            // For example, set the background color of each child to red
+            child.style.backgroundColor = 'red';
+        });
+    });
+    
+        div.addEventListener('mouseleave', () => {
+        // Revert the changes when the mouse leaves the currently hovered div
+        const childrenOfHoveredElement = div.querySelectorAll(':not(img)');
+        childrenOfHoveredElement.forEach((child) => {
+            child.style.backgroundColor = ''; // Remove the background color
         });
     });
 });
