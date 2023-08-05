@@ -16,7 +16,7 @@ $(document).ready(function () {
         childrenOfHoveredElement.forEach((child) => {
             console.log(child)
             // For example, set the background color of each child to red
-            child.style.backgroundColor = '55px';
+            child.style.height = '55px';
         });
     });
     
