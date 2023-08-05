@@ -14,7 +14,7 @@ $(document).ready(function () {
         // Apply your desired changes to the children here
         childrenOfHoveredElement.forEach((child) => {
             // For example, set the background color of each child to red
-            child.style.backgroundColor = 'red';
+            child.style.backgroundColor = '55px';
         });
     });
     
@@ -22,7 +22,7 @@ $(document).ready(function () {
         // Revert the changes when the mouse leaves the currently hovered div
         const childrenOfHoveredElement = div.querySelectorAll(':not(img)');
         childrenOfHoveredElement.forEach((child) => {
-            child.style.backgroundColor = ''; // Remove the background color
+            child.style.height = 0; // Remove the background color
         });
     });
 });
