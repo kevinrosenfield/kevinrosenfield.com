@@ -17,6 +17,7 @@ $(document).ready(function () {
             console.log(child)
             // For example, set the background color of each child to red
             child.style.height = '55px';
+            child.innerHTML = 'TEXT HERE';
         });
     });
     
@@ -25,6 +26,7 @@ $(document).ready(function () {
         const childrenOfHoveredElement = div.querySelectorAll(':not(img)');
         childrenOfHoveredElement.forEach((child) => {
             child.style.height = 0; // Remove the background color
+            child.innerHTML = 'TEXT HERE';
         });
     });
 }); 
