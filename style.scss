@@ -120,9 +120,14 @@ strong, b {
 
 img {
   max-width: 375px;
-    min-width: 225px;
-    margin: 5px;
-    width: 100%;
+  min-width: 225px;
+  margin: 5px;
+  width: 100%;
+  justify-self: center;
+}
+
+.excerpt-link {
+  display:grid;
 }
 
 // Fixes images in popup boxes from Google Translate
