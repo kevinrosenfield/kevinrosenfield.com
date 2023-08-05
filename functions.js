@@ -7,15 +7,23 @@ $(document).ready(function () {
 
     // Loop through the divs and add event listeners
     divs.forEach((div) => {
-      div.addEventListener('mouseover', () => {
-        hoveredDiv = div;
-        console.log('Hovering over ' + div.id);
+        div.addEventListener('mouseover', (event) => {
+        const hoveredElement = event.target; // The element you hovered over
+        const childrenOfHoveredElement = hoveredElement.querySelectorAll(':not(img)'); // Select all children except those with the 'img' tag
       });
 
-      div.addEventListener('mouseout', () => {
-        hoveredDiv = null;
-        console.log('Mouse left ' + div.id);
-        div.style.height = "55px";
-      });
+      div.addEventListener('mouseover', (event) => {
+        const hoveredElement = event.target; // The element you hovered over
+        const childrenOfHoveredElement = hoveredElement.querySelectorAll(':not(img)'); // Select all children except those with the 'img' tag
+    
+        // Add mouseout event listener to each child element
+        childrenOfHoveredElement.forEach((child) => {
+            child.addEventListener('mouseout', () => {
+                hoveredDiv = null;
+                console.log('Mouse left ' + child.id);
+                child.style.height = "55px";
+            });
+        });
     });
-  });
+});
+});
