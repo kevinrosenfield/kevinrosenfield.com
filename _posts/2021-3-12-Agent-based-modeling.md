@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Agent-based models
-excerpt: <a class="excerpt-link" href="https://kevinrosenfield.com/Agent-based-modeling/"><img src="/images/flocking.png"  width = "50%", height = "auto" alt= "obtained from https://images.theconversation.com/files/450675/original/file-20220308-21-1nhx7v8.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=675.0&fit=crop">
+excerpt: <a id="img-div1" class="excerpt-link" href="https://kevinrosenfield.com/Agent-based-modeling/"><img src="/images/flocking.png"  width = "50%", height = "auto" alt= "obtained from https://images.theconversation.com/files/450675/original/file-20220308-21-1nhx7v8.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=675.0&fit=crop">
 ---
 <div style="text-align: left">
 <p>
