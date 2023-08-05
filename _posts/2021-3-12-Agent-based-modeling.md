@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Agent-based models
-excerpt: <a href="https://kevinrosenfield.com/Agent-Based-Modeling/"><img src="/images/flocking.png"  width = "50%", height = "auto" alt= "obtained from https://images.theconversation.com/files/450675/original/file-20220308-21-1nhx7v8.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=675.0&fit=crop">
+excerpt: <a href="https://kevinrosenfield.com/Agent-based-modeling/"><img src="/images/flocking.png"  width = "50%", height = "auto" alt= "obtained from https://images.theconversation.com/files/450675/original/file-20220308-21-1nhx7v8.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=675.0&fit=crop">
 ---
 <div style="text-align: left">
 I have been spending a lot of time coding agent-based models over the last few months. Aside from being incredibly fun to work on, I'm hoping that these models will allow me to test several hypotheses related to behavior, mating, and evolution in humans and non-human primates.
