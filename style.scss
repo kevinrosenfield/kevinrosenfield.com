@@ -140,6 +140,10 @@ img {
   display: none;
   color: white;
   text-align: left;
+  max-width: 375px;
+  min-width: 225px;
+  margin: 5px;
+  justify-self: center;
 }
 
 // Fixes images in popup boxes from Google Translate
