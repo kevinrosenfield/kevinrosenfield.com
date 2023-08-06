@@ -19,43 +19,44 @@
   </head>
 
   <body style= "margin:40px">
-    <div class="wrapper-masthead">
-      <div class="container" style="margin: 0 0 0 0p;">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}"/></a>
-          <div class="site-info">
-            <h4 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <!-- <p class="site-description">{{ site.description }}</p> -->
-          </div>
-  </body>
-  <body>      
-          <div><nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-            <a href="{{ site.baseurl }}/resume/">Resume</a>
-            <a href="{{ site.baseurl }}/cv/">Academic CV</a>
-            <!-- <a href="{{ site.baseurl }}/pymate/">Pymate App</a> -->
-          </nav></div>
-        </header>
+    <div class="main-container">
+      <div class="wrapper-masthead">
+        <div class="container" style="margin: 0 0 0 0p;">
+          <header class="masthead clearfix">
+            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}"/></a>
+            <div class="site-info">
+              <h4 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+              <!-- <p class="site-description">{{ site.description }}</p> -->
+            </div> 
+            <div><nav>
+              <a href="{{ site.baseurl }}/">Blog</a>
+              <a href="{{ site.baseurl }}/about">About</a>
+              <a href="{{ site.baseurl }}/resume/">Resume</a>
+              <a href="{{ site.baseurl }}/cv/">Academic CV</a>
+              <!-- <a href="{{ site.baseurl }}/pymate/">Pymate App</a> -->
+            </nav></div>
+          </header>
+        </div>
+      </div>
+
+      <div id="main" role="main" class="container">
+        {{ content }}
       </div>
     </div>
 
-    <div id="main" role="main" class="container">
-      {{ content }}
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          {% include svg-icons.html %}
+        </footer>
+      </div>
     </div>
-
-    
 
     {% include analytics.html %}
   </body>
 
-  <div class="wrapper-footer">
-    <div class="container">
-      <footer class="footer">
-        {% include svg-icons.html %}
-      </footer>
-    </div>
-  </div>
+  
+
   <!-- <script>
   // Get references to the three div elements
     $(document).ready(function () {
