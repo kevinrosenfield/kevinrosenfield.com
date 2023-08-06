@@ -278,12 +278,17 @@ nav {
     font-size: 23px;
   }
 
+  .sup-a {
+    padding:0px
+  }
+
   a {
     margin-right: 20px;
     color: #1e4f50;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
+    padding:5px;
 
     @include mobile {
       margin: 0 10px;
