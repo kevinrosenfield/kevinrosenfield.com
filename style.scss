@@ -26,6 +26,8 @@ html {
   font: 18px/1.4 $helvetica;
   color: $darkGray;
   margin-top: 10px;
+  height: calc(100% - 85px);
+  overflow-y: auto;
 }
 
 .container {
@@ -353,6 +355,7 @@ nav {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
+  height: 85px;
 }
 
 footer {
