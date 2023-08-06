@@ -130,6 +130,18 @@ img {
   display:grid;
 }
 
+.img-box {
+  bottom: 5px;
+  height: 55px;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  justify-self: center;
+  position: absolute;
+  display: none;
+  color: white;
+  text-align: left;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
