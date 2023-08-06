@@ -54,7 +54,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   margin-top: 3px;
-  font-size: min(calc(12px + 0.63vw) , 1.4rem);
+  max(min(calc(12px + 0.63vw), 1.4rem),1.25rem);
   padding-bottom: 0px;
   text-align: center;	
   a {
@@ -314,7 +314,7 @@ nav {
 
 .posts {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(262px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(353px, 1fr))
   column-gap: 30px;
   row-gap: 10px;
 }
