@@ -6,5 +6,5 @@ permalink: /resume/
 
 <h1 style="text-align:center;">My Resume</h1>
 <div style="overflow-y:scroll">
-    <embed class= 'pdf' src="/images/Rosenfield_Resume_10JUL2023.pdf#toolbar==0&navpanes=0" id="resume" alt="Resume" type="application/pdf">
+    <iframe class= 'pdf' src="/images/Rosenfield_Resume_10JUL2023.pdf#toolbar==0" id="resume" alt="Resume">
 </div>
