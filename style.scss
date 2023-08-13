@@ -343,8 +343,6 @@ nav {
   border-bottom: 1px solid $lightGray;
   text-align: center;
   padding-bottom: 1em;
-  margin-left: 30px;
-  margin-right: 30px;
 }
 
 .posts > .post:last-child {
@@ -353,6 +351,9 @@ nav {
 }
 
 .post {
+  margin-left: 30px;
+  margin-right: 30px;
+  
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
