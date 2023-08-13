@@ -139,7 +139,7 @@ img {
 .img-box {
   bottom: 5px;
   height: 55px;
-  width: 100%;
+  width: 50%;
   background: rgba(0, 0, 0, 0.5);
   justify-self: center;
   position: absolute;
@@ -353,7 +353,7 @@ nav {
 .post {
   margin-left: 30px;
   margin-right: 30px;
-  
+
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
