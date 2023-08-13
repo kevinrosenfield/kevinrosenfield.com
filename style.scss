@@ -315,8 +315,20 @@ nav {
   margin-bottom: 64px;
 }
 
+.pdf {
+  width: 89%;
+  height: 404%;
+  border: 2px double;
+  justify-self: center;
+}
+
 .entry {
   display: grid;
+}
+
+.page {
+  margin-left: 30px;
+  margin-right: 30px;
 }
 
 .posts {
@@ -331,6 +343,8 @@ nav {
   border-bottom: 1px solid $lightGray;
   text-align: center;
   padding-bottom: 1em;
+  margin-left: 30px;
+  margin-right: 30px;
 }
 
 .posts > .post:last-child {
