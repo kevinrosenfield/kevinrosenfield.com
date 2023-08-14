@@ -20,7 +20,7 @@ A truly great model would correctly predict <i>upsets</i> more than 50% of the t
   <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;">
   Figure 1. Distribution of ranks among match winners and losers.
   </div>
-<img src="/images/tennis_ranks.png">
+<img src="/images/tennis_ranks.png" style="max-width:565px">
 </div>
 
 <p>
