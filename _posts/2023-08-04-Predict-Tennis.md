@@ -7,9 +7,13 @@ excerpt: <a id="img-div3" class="excerpt-link"  style="position:relative"  href=
 
 <p>
 What information would you need to predict the outcome of a tennis match?
+</p>
 
+<p>
 If you knew nothing else about the sport, the players, or the the venue, you might start by looking at the players' world rankings, which basically reflect how well they've been playing relative to their competitiors over the last year. The  commentators may announce their ranks, or they may show up in a stats box before or during the match (the little numbers next to player names are tournament seeds, which are related, but different).
+</p>
 
+<p>
 You can also find player rankings very easily <a href="https://www.atptour.com/en/rankings/singles">here (Men's)</a> and <a href="https://www.atptour.com/en/rankings/singles">here (Women's)</a>.
 </p>
 
