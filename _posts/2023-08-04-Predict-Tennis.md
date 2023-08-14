@@ -6,8 +6,22 @@ excerpt: <a id="img-div3" class="excerpt-link"  style="position:relative"  href=
 <div>
 
 <p>
-What information would you need to predict the outcome of a tennis match? If you knew nothing else about the sport, the players, or the the venue, you might start by looking at the players' world rankings, which basically reflect how well they've been playing relative to their competitiors. The  commentators may tell you the players' rank, or they may show up in a stats box before or during the match (the little numbers next to player names are tournament seeds, which are related, but different). You can also find player rankings very easily <a href="https://www.atptour.com/en/rankings/singles">here (Men's)</a> and <a href="https://www.atptour.com/en/rankings/singles">here (Women's)</a>.
+What information would you need to predict the outcome of a tennis match?
+
+If you knew nothing else about the sport, the players, or the the venue, you might start by looking at the players' world rankings, which basically reflect how well they've been playing relative to their competitiors over the last year. The  commentators may announce their ranks, or they may show up in a stats box before or during the match (the little numbers next to player names are tournament seeds, which are related, but different).
+
+You can also find player rankings very easily <a href="https://www.atptour.com/en/rankings/singles">here (Men's)</a> and <a href="https://www.atptour.com/en/rankings/singles">here (Women's)</a>.
 </p>
+
+<div style="display:flex;flex-direction:column;align-items:center;font-size: calc(10px + 0.5vw);">
+  <div style="margin-left: 2%;margin-right: 5%;text-align:justify;">
+    Figure 1. Distribution of ranks among match winners and losers.
+  </div>
+  <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;">
+    <img src="/images/tennis_ranks_los.png" width="47%" height=auto style="border-radius: 31px;min-width: 345px;">
+    <img src="/images/tennis_ranks_win.png" width="47%" height=auto style="border-radius: 31px;min-width: 345px;">
+  </div>
+</div>
 
 <h2>Planned Work</h2>
 
@@ -22,16 +36,6 @@ I also hope to find richer data sources to incorporate into future iterations, a
 <p>
 A truly great model would correctly predict <i>upsets</i> more than 50% of the time. An upset occurs when the lower ranked player wins the match. In more prominent tournaments, seeded players defeat their unseeded opponents most of the time. Predicting upsets at this level would be a real measure of success.
 </p>
-
-<div style="display:flex;flex-direction:column;align-items:center;font-size: calc(10px + 0.5vw);">
-  <div style="margin-left: 2%;margin-right: 5%;text-align:justify;">
-    Figure 1. Distribution of ranks among match winners and losers.
-  </div>
-  <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;">
-    <img src="/images/tennis_ranks_los.png" width="47%" height=auto style="border-radius: 31px;min-width: 285px;">
-    <img src="/images/tennis_ranks_win.png" width="47%" height=auto style="border-radius: 31px;min-width: 285px;">
-  </div>
-</div>
 
 <p>
 This post is a work in progress!
