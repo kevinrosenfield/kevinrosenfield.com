@@ -63,7 +63,13 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
+  margin-top: 3px;
+  font-size: max(min(calc(10px + 0.43vw), 1.03rem), 1.55rem);
+  padding-bottom: 0px;
+  text-align: center;	
+  a {
+    color: inherit;
+  }
 }
 
 h3 {
