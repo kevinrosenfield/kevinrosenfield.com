@@ -16,6 +16,13 @@ I also hope to find richer data sources to incorporate into future iterations, a
 A truly great model would correctly predict <i>upsets</i> more than 50% of the time. An upset occurs when the lower ranked player wins the match. In more prominent tournaments, seeded players defeat their unseeded opponents most of the time. Predicting upsets at this level would be a real measure of success.
 </p>
 
+<div style="display:flex;flex-direction:column;font-size: calc(10px + 0.5vw);align-items:center;">
+  <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;">
+  Figure 1. Distribution of ranks among match winners and losers.
+  </div>
+<img src="/images/tennis_ranks.png">
+</div>
+
 <p>
 This post is a work in progress!
 </p>
