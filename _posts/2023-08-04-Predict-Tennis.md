@@ -4,6 +4,13 @@ title: "ML Tennis Prediction"
 excerpt: <a id="img-div3" class="excerpt-link"  style="position:relative"  href="https://kevinrosenfield.com/Predict-Tennis/"><img width = "50%", height = "auto" src="/images/tennis_analytics.jpeg" alt="obtained from https://www.pinnacle.com/"><div id="img-box3" class="img-box">Read More</div></a>
 ---
 <div>
+
+<p>
+What would you need to know to predict the outcome of a tennis match? If you knew nothing else about the sport, the players, or the the venue, you might start by looking at the players' world rankings, which basically reflect how well they've been playing relative to their competitiors. The  commentators may tell you the players' rank, or they may show up in a stats box before or during the match (the little numbers next to player names are tournament seeds, which are related, but different). You can also find player rankings very easily <a href="https://www.atptour.com/en/rankings/singles">here (Men's)</a> and <a href="https://www.atptour.com/en/rankings/singles">here (Women's)</a>.
+</p>
+
+<h2>Planned Work</h2>
+
 <p>
 I am in the process of writing a python script that uses logistic regression to predict the outcomes of professional tennis matches on the basis of each players' previous match performance. The first iteration will only take into account each player's most recent match, but subsequent attempts to improve the model's predictive power will use more complex feature combinations, take momentum over multiple matches into account, and factor in the head-to-head record and statistics of each player.
 </p>
