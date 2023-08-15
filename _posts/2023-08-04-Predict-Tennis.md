@@ -14,7 +14,7 @@ The  commentators may announce their ranks, or they may show up in a stats box b
 </p>
 
 <div style="display:flex;flex-direction:column;align-items:center;font-size: calc(10px + 0.5vw);justify-self: center;">
-  <div style="margin-left: 2%;margin-right: 5%;text-align:justify;">
+  <div style="margin-left: 2%;margin-right: 5%;text-align:justify;font-size:calc(10px + 0.5vw)">
     Figure 1. Distribution of ranks among match winners and losers.
   </div>
   <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;">
