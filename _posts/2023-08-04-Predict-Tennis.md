@@ -6,24 +6,22 @@ excerpt: <a id="img-div3" class="excerpt-link"  style="position:relative"  href=
 <div>
 
 <p>
-What information would you need to predict the outcome of a tennis match?
+What information would you need to predict the outcome of a tennis match? If you knew nothing else about the sport, the players, or the the venue, you might start by looking at the players' world rankings, which basically reflect how well they've been playing relative to their competitiors over the last year.
 </p>
 
 <p>
-If you knew nothing else about the sport, the players, or the the venue, you might start by looking at the players' world rankings, which basically reflect how well they've been playing relative to their competitiors over the last year. The  commentators may announce their ranks, or they may show up in a stats box before or during the match (the little numbers next to player names are tournament seeds, which are related, but different).
-</p>
-
-<p>
-You can also find player rankings very easily <a href="https://www.atptour.com/en/rankings/singles">here (Men's)</a> and <a href="https://www.atptour.com/en/rankings/singles">here (Women's)</a>.
+The  commentators may announce their ranks, or they may show up in a stats box before or during the match (the little numbers next to player names are tournament seeds, which are related, but different). You can also find player rankings very easily <a href="https://www.atptour.com/en/rankings/singles">here (Men's)</a> and <a href="https://www.atptour.com/en/rankings/singles">here (Women's)</a>.
 </p>
 
 <div style="display:flex;flex-direction:column;align-items:center;font-size: calc(10px + 0.5vw);">
   <div style="margin-left: 2%;margin-right: 5%;text-align:justify;">
     Figure 1. Distribution of ranks among match winners and losers.
   </div>
-  <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;">
-    <img src="/images/tennis_ranks_los.png" width="47%" height=auto style="border-radius: 11px;min-width: 345px;">
-    <img src="/images/tennis_ranks_win.png" width="47%" height=auto style="border-radius: 11px;min-width: 345px;">
+  <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;background-color:white">
+    <img src="/images/tennis_ranks_los.png" width="47%" height=auto style="border-radius: 11px;min-width: 345px;width:90%">
+  </div>
+  <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;background-color:white">
+    <img src="/images/tennis_ranks_win.png" width="47%" height=auto style="border-radius: 11px;min-width: 345px;width:90%">
   </div>
 </div>
 
