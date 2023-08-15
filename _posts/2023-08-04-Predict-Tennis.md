@@ -22,8 +22,8 @@ You can also find player rankings very easily <a href="https://www.atptour.com/e
     Figure 1. Distribution of ranks among match winners and losers.
   </div>
   <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;">
-    <img src="/images/tennis_ranks_los.png" width="47%" height=auto style="border-radius: 31px;min-width: 345px;">
-    <img src="/images/tennis_ranks_win.png" width="47%" height=auto style="border-radius: 31px;min-width: 345px;">
+    <img src="/images/tennis_ranks_los.png" width="47%" height=auto style="border-radius: 11px;min-width: 345px;">
+    <img src="/images/tennis_ranks_win.png" width="47%" height=auto style="border-radius: 11px;min-width: 345px;">
   </div>
 </div>
 
