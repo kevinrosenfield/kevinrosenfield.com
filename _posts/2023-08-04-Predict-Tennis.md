@@ -17,16 +17,20 @@ What information would you need to predict the outcome of a tennis match? If you
 The  commentators may announce their ranks, or they may show up in a stats box before or during the match (the little numbers next to player names are tournament seeds, which are related, but different). You can also find player rankings very easily <a href="https://www.atptour.com/en/rankings/singles">here (Men's)</a> and <a href="https://www.atptour.com/en/rankings/singles">here (Women's)</a>.
 </p>
 
+<p>
+So, do higher ranked players win more often? 
+</p>
+
 <div style="display:flex;flex-direction:column;align-items:center;font-size: calc(10px + 0.5vw);justify-self: center;">
   <div style="margin-left: 2%;margin-right: 5%;text-align:justify;font-size:calc(12px + 0.5vw)">
     Figure 1. Distribution of ranks among match winners and losers.
   </div>
   <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;">
     <div style="background-color:white;margin:3px;border-radius:20px;width:49%;height:fit-content;min-width:300px;">
-      <img src="/images/tennis_ranks_los.png" width="47%" height=auto style="border-radius: 11px;width:90%">
+      <img src="/images/tennis_ranks_win.png" width="47%" height=auto style="border-radius: 11px;width:90%">
     </div>
     <div style="background-color:white;margin:3px;border-radius:20px;width:49%;height:fit-content;min-width:300px;">
-      <img src="/images/tennis_ranks_win.png" width="47%" height=auto style="border-radius: 11px;width:90%">
+      <img src="/images/tennis_ranks_los.png" width="47%" height=auto style="border-radius: 11px;width:90%">
     </div>
   </div>
 </div>
