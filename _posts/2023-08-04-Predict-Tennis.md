@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ML Tennis Prediction"
+title: "Using Machine Learning to Predict Tennis Match Outcomes"
 excerpt: <a id="img-div3" class="excerpt-link"  style="position:relative"  href="https://kevinrosenfield.com/Predict-Tennis/"><img width = "50%", height = "auto" src="/images/tennis_analytics.jpeg" alt="obtained from https://www.pinnacle.com/"><div id="img-box3" class="img-box">Read More</div></a>
 ---
 <div style="display:grid">
