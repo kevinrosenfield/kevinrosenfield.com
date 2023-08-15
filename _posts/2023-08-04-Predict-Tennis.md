@@ -3,7 +3,7 @@ layout: post
 title: "ML Tennis Prediction"
 excerpt: <a id="img-div3" class="excerpt-link"  style="position:relative"  href="https://kevinrosenfield.com/Predict-Tennis/"><img width = "50%", height = "auto" src="/images/tennis_analytics.jpeg" alt="obtained from https://www.pinnacle.com/"><div id="img-box3" class="img-box">Read More</div></a>
 ---
-<div>
+<div style="display:grid">
 
 <p>
 What information would you need to predict the outcome of a tennis match? If you knew nothing else about the sport, the players, or the the venue, you might start by looking at the players' world rankings, which basically reflect how well they've been playing relative to their competitiors over the last year.
@@ -13,7 +13,7 @@ What information would you need to predict the outcome of a tennis match? If you
 The  commentators may announce their ranks, or they may show up in a stats box before or during the match (the little numbers next to player names are tournament seeds, which are related, but different). You can also find player rankings very easily <a href="https://www.atptour.com/en/rankings/singles">here (Men's)</a> and <a href="https://www.atptour.com/en/rankings/singles">here (Women's)</a>.
 </p>
 
-<div style="display:flex;flex-direction:column;align-items:center;font-size: calc(10px + 0.5vw);">
+<div style="display:flex;flex-direction:column;align-items:center;font-size: calc(10px + 0.5vw);width: 150%;justify-self: center;">
   <div style="margin-left: 2%;margin-right: 5%;text-align:justify;">
     Figure 1. Distribution of ranks among match winners and losers.
   </div>
