@@ -17,11 +17,13 @@ The  commentators may announce their ranks, or they may show up in a stats box b
   <div style="margin-left: 2%;margin-right: 5%;text-align:justify;">
     Figure 1. Distribution of ranks among match winners and losers.
   </div>
-  <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;background-color:white">
-    <img src="/images/tennis_ranks_los.png" width="47%" height=auto style="border-radius: 11px;min-width: 345px;width:90%">
-  </div>
-  <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;background-color:white">
-    <img src="/images/tennis_ranks_win.png" width="47%" height=auto style="border-radius: 11px;min-width: 345px;width:90%">
+  <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;">
+    <div style="background-color:white">
+      <img src="/images/tennis_ranks_los.png" width="47%" height=auto style="border-radius: 11px;min-width: 345px;width:90%">
+    </div>
+    <div style="background-color:white">
+      <img src="/images/tennis_ranks_win.png" width="47%" height=auto style="border-radius: 11px;min-width: 345px;width:90%">
+    </div>
   </div>
 </div>
 
