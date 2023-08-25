@@ -1,0 +1,5 @@
+- Add workout description collumn to workouts
+
+- Adjust font sizes
+
+- Try benchmarks
