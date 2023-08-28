@@ -25,7 +25,7 @@ This project gave me the opportunity to test my growing full-stack web developme
 </p>
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;">
-    <img src="/images/burberry_ui.png" width = "50%", height = "auto" alt= "">
+    <img src="/images/burberry_ui.png" width = "50%" height = "auto" alt= "">
 </div>
 
 <p>
@@ -33,7 +33,7 @@ The most important requirement was that the I present a simple, user-friendly in
 </p>
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;">
-    <img src="/images/burberry_analytics.png" width = "50%", height = "auto" alt= "">
+    <img src="/images/burberry_analytics.png" width = "50%" height = "auto" alt= "">
 </div>
 
 <p>
