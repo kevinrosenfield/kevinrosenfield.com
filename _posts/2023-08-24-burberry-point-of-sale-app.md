@@ -23,13 +23,18 @@ At Burberry's flagship retail location in NYC, management had be using tools, su
 <p>
 This project gave me the opportunity to test my growing full-stack web development skill. I first used Rshiny to code the backend (in R) and to set up the framework for what would become the app's user interface (UI). I then developed custom CSS, HTML, and Javascript components to further refine the look, feel, and functionality of the app.
 </p>
-<img src="/images/burberry_ui.png" width = "50%", height = "auto" alt= "">
+
+<div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;">
+    <img src="/images/burberry_ui.png" width = "50%", height = "auto" alt= "">
+</div>
 
 <p>
 The most important requirement was that the I present a simple, user-friendly interface for collecting sales data, a database system to store the data, and various methods of accessing the data later on. Using dyanmic data processing, table building, and plotting functions, I created robust analytics platrform where management could view, in raw or aggregate form, the metrics they rely upon to measure sales performance.
 </p>
 
-<img src="/images/burberry_analytics.png" width = "50%", height = "auto" alt= "">
+<div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;">
+    <img src="/images/burberry_analytics.png" width = "50%", height = "auto" alt= "">
+</div>
 
 <p>
 This post is a work in progress!
