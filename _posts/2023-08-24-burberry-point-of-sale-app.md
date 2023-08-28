@@ -6,10 +6,6 @@ excerpt: <a id="img-div1" class="excerpt-link" style="position:relative" href="h
 <div style="text-align: left">
 
 <p>
-I'll post here about my experience of creating an RShiny app that has been in use for a year to track every sale made at the flagship Manhattan store of the luxury retailer Burberry.
-</p>
-
-<p>
 Burberry is a London-based luxury retail brand. Management of their Manhattan flagship location asked me to produce a simple sales and appointment-tracking web app. I designed, developed, and deployed an app that streamlined and increased the accuracy of their performance-based reports to executive management.
 </p>
 
