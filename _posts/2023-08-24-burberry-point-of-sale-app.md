@@ -9,7 +9,6 @@ excerpt: <a id="img-div1" class="excerpt-link" style="position:relative" href="h
 Burberry is a London-based luxury retail brand. Management of their Manhattan flagship location asked me to produce a simple sales and appointment-tracking web app. I designed, developed, and deployed an app that streamlined and increased the accuracy of their performance-based reports to executive management.
 </p>
 
-<h2>Problem</h2>
 <p>
 Enterprise retail organizations generally have development teams to create web-based applications, such as internal sales-tracking tools and customer-facing mobile apps. However, the needs of store management are not always met by tools made for corporate stakeholders.
 
