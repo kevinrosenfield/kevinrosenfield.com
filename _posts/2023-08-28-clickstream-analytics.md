@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ClickStream Analytics at Indeed.com
+title: Clickstream Analytics at Indeed.com
 excerpt: <a id="img-div1" class="excerpt-link" style="position:relative" href="https://kevinrosenfield.com/clickstream-analytics/"><img src="/images/clickstream.png" width = "50%", height = "auto" alt= ""><div id="img-box1" class="img-box">Read More</div></a>
 ---
 <div style="text-align: left">
