@@ -7,7 +7,7 @@ excerpt: <a id="img-div1" class="excerpt-link" style="position:relative" href="h
 
 <h2>Summary</h2>
 <p>
-Senior management at Indeed recognized a lack of alignment between the UX strategies of different product teams, By viewing adjacent Indeed products as separate, product teams risked creating a disjointed end-to-end user experience. To resolve this issue, they directed the Product Organization to create a unified framework for design, product management, and UX research, emphasizing the need to break down artificial boundaries between products to ensure a seamless user experience. I conducted foundational quantitative research and proof-of-concept development to initiate clickstream analytics research across all employer-facing products.</p>
+Senior management at Indeed recognized a lack of alignment between the UX strategies of different product teams, By viewing adjacent Indeed products as separate, product teams risked creating a disjointed end-to-end user experience. To resolve this issue, they directed the Product Organization to create a unified framework for design, product management, and UX research, emphasizing the need to break down artificial boundaries between products to ensure a seamless user experience. I conducted foundational quantitative research and proof-of-concept development to initiate clickstream analytics research across all employer-facing products.
 </p>
 
 <h2>The Business Problem</h2>

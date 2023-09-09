@@ -23,7 +23,7 @@ body {
 }
 
 .main-container {
-  background: #adc2d5;
+  background: #cdd3da;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
   height: calc(100% - 85px);
@@ -54,7 +54,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   margin-top: 3px;
-  font-size: calc(10px + 1.4vw);
+  font-size: max(min(calc(15px + 0.43vw), 0.93rem), 1.45rem);
   padding-bottom: 0px;
   text-align: center;	
   a {
@@ -64,7 +64,7 @@ h1 {
 
 h2 {
   margin-top: 3px;
-  font-size: max(min(calc(10px + 0.43vw), 1.03rem), 1.55rem);
+  font-size: max(min(calc(14px + 0.33vw), 0.83rem), 1.35rem);
   padding-bottom: 0px;
   a {
     color: inherit;
@@ -84,7 +84,7 @@ p {
   margin: 15px 0;
   padding-bottom: 10px;
   text-align: left;
-  font-size: calc(11px + 0.5vw);
+  font-size: max(min(calc(12px + 0.23vw), 0.43rem), 1.25rem);
   font-family: initial;
 }
 
